@@ -5,3 +5,5 @@ This is a android application perform play music with .flac, .mp3 (can edit in F
 This is a simple application, have functions such as: repeat, shuffle, next, previous,....
 
 Contact: dhnguyen.acc@gmail.com
+
+Edit: 20230903
